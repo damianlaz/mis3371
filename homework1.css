@@ -1,0 +1,48 @@
+ /* 
+ Name: Damian Lazcano
+ File: homework1.css
+ Date Created: 06-17-2026
+ Date Updated: 06-18-2026
+ Purpose: Style sheet for MIS 3371 HW1
+ */
+body {
+    background-color: rgb(221, 205, 238);
+    font-family: "Arial", sans-serif;
+     } 
+
+h1 {
+   text-align: center;
+   color:cream;
+   font-size: 36px;
+   margin-top: 20px;
+   font-weight: bold;
+   font-family: 'Georgia', serif;
+   }
+table.form, tr.form, td.form 
+    {
+    width: 80%;
+    opacity: 0.9;
+    font-family: "Source Sans Pro", sans-serif;
+    padding: 0px;
+    background-color:rgb(212, 220, 255);
+    color:black;
+    }
+th.form 
+   {
+     font-family: Arial, Helvetica, sans-serif;
+     background-color:rgb(212, 220, 255);
+     padding: 20px;
+     border-spacing: 20px;
+     color:black;
+     margin-left: auto;
+     margin-right: auto;
+    }
+table.form
+    {
+    margin-left: auto;
+    margin-right: auto;
+    }
+.top {
+    text-align: center;
+    text-transform: uppercase;
+    }

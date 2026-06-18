@@ -1,0 +1,24 @@
+/* 
+ Name: Damian Lazcano
+ File: thankyou.css
+ Date Created: 06-17-2026
+ Date Updated: 06-18-2026
+ Purpose: Style sheet for MIS 3371 HW1
+ */
+
+ header {
+    background-color: rgb(221, 205, 238);
+    text-align: center;
+    padding: 20px;
+       }
+ 
+ body  {
+    background-color: rgb(221, 205, 238);
+    font-family: "Georgia", sans-serif;
+
+       }
+footer {
+    background-color: rgb(221, 205, 238);
+    text-align: center;
+    padding: 10px;
+       }
